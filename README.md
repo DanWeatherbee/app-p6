@@ -1,6 +1,8 @@
 # Feed Reader Testing P6 FEND
 Udacitys Front End Nanodegree
 
+`[Check it out here](https://danweatherbee.github.io/app-p6/).`
+
 ## Project Overview
 - feed reader testing using Jasmine.
 - 7 specs applied to ensure app will run correctly.
